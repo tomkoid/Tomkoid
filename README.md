@@ -2,4 +2,4 @@
 
  
  
- ​[![​Top Langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomkoid&layout=compact)](https://github.com/Tomkoid/Phyc)
+ ​[![​Top Langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomkoid&layout=compact&&bg_color=161f2b&text_color=bec1c4)](https://github.com/Tomkoid/Phyc)
